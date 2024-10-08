@@ -33,7 +33,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task0.V22
             Console.WriteLine("***************************************************************************");
             for (int i = 0; i < 6; i++)
             {
-                Console.WriteLine(res[i]);
+                Console.WriteLine(res[i]) ;
             }
 
         }

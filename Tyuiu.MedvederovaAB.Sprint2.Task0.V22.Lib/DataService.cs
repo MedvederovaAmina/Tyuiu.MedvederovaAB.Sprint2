@@ -12,7 +12,7 @@ public class DataService : ISprint2Task0V22
         res[3] = x > y;
         res[4] = x - 3029 <= y; 
         res[5] = x - 3029 >= y;
-        return res;
+        return  res;
     }
 }
 
