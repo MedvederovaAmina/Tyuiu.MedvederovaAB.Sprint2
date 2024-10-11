@@ -8,7 +8,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task2.V16.Test
         [TestMethod]
         public void ValidCheckDotInShadedArea()
         {
-            DataService ds = new DataService();
+            DataService ds  = new DataService();
             int x = 4;
             int y = 4;
             bool res = ds.CheckDotInShadedArea(x, y);

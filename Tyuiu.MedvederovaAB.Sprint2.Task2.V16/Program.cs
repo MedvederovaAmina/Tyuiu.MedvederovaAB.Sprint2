@@ -29,7 +29,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task2.V16
             bool res = ds.CheckDotInShadedArea(x, y);
       
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("*  РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             if (res)
             {
