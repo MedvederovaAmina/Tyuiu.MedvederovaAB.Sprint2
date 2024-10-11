@@ -37,7 +37,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task2.V16
             }
             else
             {
-                Console.WriteLine("Точка находится в заштрихованной области");
+                Console.WriteLine( "Точка находится в заштрихованной области");
             }
             Console.ReadKey();
         }
