@@ -31,12 +31,12 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task1.V25
             Console.WriteLine(" a = " + a);
             Console.WriteLine(" b = " + b);
             Console.WriteLine(" c = " + c);
-            Console.WriteLine(" d = " + d);
+            Console.WriteLine(" d  = " + d);
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             for (int i = 0; i < 6; i++)
-            {
+            { 
                 Console.WriteLine(res[i]);
             }
             Console.ReadKey();

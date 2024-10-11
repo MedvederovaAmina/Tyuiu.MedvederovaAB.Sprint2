@@ -13,7 +13,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task1.V25.Lib
             res[3] = ((a > d) && (d < a));
             res[4] = !(!res[0]);
             res[5] = ((a > d) ^ (d < b));
-            return res;
+            return  res;
         }
     }
 }
