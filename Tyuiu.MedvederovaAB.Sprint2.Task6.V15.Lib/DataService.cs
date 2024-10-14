@@ -28,7 +28,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task6.V15.Lib
                 case 17: return "среда";
                 case 18: return "четверг";
                 case 19: return "пятница";
-                case 20: return "суббота";
+                case 20: return "Суббота";
                 case 21: return "воскресенье";
                 case 22: return "понедельник";
                 case 23: return "вторник";

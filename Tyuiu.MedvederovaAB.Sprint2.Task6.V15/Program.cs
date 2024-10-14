@@ -31,7 +31,7 @@ namespace Tyuiu.MedvederovaAB.Sprint2.Task6.V15
             }
             else
             {
-                res = " Этот день: " + ds.FindDayName(numDay);
+                res = "  Этот день: " + ds.FindDayName(numDay);
             }
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
