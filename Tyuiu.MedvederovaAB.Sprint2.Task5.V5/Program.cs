@@ -5,7 +5,7 @@ DataService ds = new DataService();
 Console.Title = "Спринт #2  |  Выполнила: Медведерова А. Б.  |  ПКТб-24-1";
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #2                                                               *");
-Console.WriteLine("* Тема: Тернарный оператор.                                               *");
+Console.WriteLine("* Тема: Оператор switch.                                                  *");
 Console.WriteLine("* Задание: #5                                                             *");
 Console.WriteLine("* Вариант: #5                                                             *");
 Console.WriteLine("* Выполнила: Медведерова Амина Борисовна | ПКТб-24-1                      *");
